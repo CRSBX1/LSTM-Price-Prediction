@@ -1,4 +1,4 @@
-#Project Description
+# Project Description
 
 A group project made for Asia Pacific University's AI methods module assignment, in which we were told to find a machine learning model and modify its hyperparameters to monitor how they affect model performance.
 Our group successfully modified a Long Short Term Memory (LSTM) Neural Network model and significantly improved its prediction accuracy. We used the modified model to predict AAPL stock prices in a 60 days timeframe,
